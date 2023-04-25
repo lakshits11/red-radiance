@@ -1,12 +1,16 @@
 {
   "name": "red-radiance",
-    "displayName": "Red Radiance",
-    "publisher": "Lakshit Somani",
-    "icon": "redradiance2.jpg",
-    "author": {
-        "name": "Lakshit Somani",
-        "email": "lakshits11@gmail.com"
-    },
+  "displayName": "Red Radiance",
+  "publisher": "Lakshit Somani",
+  "icon": "redradiance2.png",
+  "author": {
+    "name": "Lakshit Somani",
+    "email": "lakshits11@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakshits11/red-radiance.git"
+},
   "description": "A polished theme that combines lustrous shades of Ferrari red, oceanic aqua, and radiant gold. Feel the elegance, power, and creativity it exudes.",
   "version": "0.0.1",
   "engines": {
