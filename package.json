@@ -1,0 +1,27 @@
+{
+  "name": "red-radiance",
+    "displayName": "Red Radiance",
+    "publisher": "Lakshit Somani",
+    "icon": "redradiance2.jpg",
+    "author": {
+        "name": "Lakshit Somani",
+        "email": "lakshits11@gmail.com"
+    },
+  "description": "A polished theme that combines lustrous shades of Ferrari red, oceanic aqua, and radiant gold. Feel the elegance, power, and creativity it exudes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Red Radiance",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Red Radiance-color-theme.json"
+      }
+    ]
+  }
+}
